@@ -49,7 +49,7 @@ Time to mingle, chat, and rate! Have fun exploring the world around you. 🌍�
 
 ## 🚀 How to Contribute to This Project 🚀
 
-We’re excited to have you contribute to this *Ice Cream Parlour Website* project! Follow these simple steps to get started:
+We’re excited to have you contribute to this project! Follow these simple steps to get started:
 
 1. **🍴 Fork the Repository**  
    - Go to the [repository page](https://github.com/Vishwajith-Shettigar/NextGen).
